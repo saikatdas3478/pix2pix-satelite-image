@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the Pix2Pix model, a type of Generative Adversarial Network (GAN), for translating satellite images. The model is designed to convert one type of satellite image to another, utilizing both generator and discriminator networks in a U-Net architecture.
 
-![Image 0]()
+![Image 0](https://github.com/saikatdas3478/pix2pix-satelite-image/blob/main/output.png)
 
 ## Table of Contents
 
@@ -66,6 +66,5 @@ python evaluate.py
 
 The model generates images by learning from the input and target satellite images. Below are some examples of the results:
 
-![Image 1]()
-![Image 2]()
-![Image 3]()
+![Image 1](https://github.com/saikatdas3478/pix2pix-satelite-image/blob/main/plot_010960.png)
+![Image 2](https://github.com/saikatdas3478/pix2pix-satelite-image/blob/main/plot_021920.png)
